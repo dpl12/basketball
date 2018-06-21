@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">basketball</string>
+    <string name="background_image">background_image</string>
+    <string name="app_logo">app_logo</string>
+    <string name="desired_league">Desired League</string>
+    <string name="mens">mens</string>
+    <string name="womens">womens</string>
+    <string name="co_ed">co-ed</string>
+    <string name="next">next</string>
+    <string name="go_all_in">GO ALL IN</string>
+    <string name="on_ging_all_out">ON GING ALL OUT</string>
+    <string name="find_a_team_in_you_city_and_dominate_the_league">Find a team in you city,and dominate the league</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="i_am_a">I am a:</string>
+    <string name="beginner">BEGINNER</string>
+    <string name="baller">BALLER</string>
+    <string name="finish">FINISH</string>
+    <string name="search_league">Looking for a co-ed beginner league near you...</string>
+</resources>
